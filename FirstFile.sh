@@ -1,2 +1,2 @@
 #! /usr/bin/bash
-echo "Yo yo Bitch"
+for i in {1..5}; do date; done
